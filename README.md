@@ -1,1 +1,1 @@
-# kevohm.github.io
+# configs for github pages
